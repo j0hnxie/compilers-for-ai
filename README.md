@@ -14,6 +14,8 @@ Each paper is linked along with my ChatGPT vibe log discussion that captures my 
 - [Ansor: Generating High-Performance Tensor Programs for Deep Learning](#ansor-generating-high-performance-tensor-programs-for-deep-learning)
 - [PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation](#pytorch-2-faster-machine-learning-through-dynamic-python-bytecode-transformation-and-graph-compilation)
 - [TorchBench: Benchmarking PyTorch with High API Surface Coverage](#torchbench-benchmarking-pytorch-with-high-api-surface-coverage)
+- [TorchTitan: One-stop PyTorch native solution for production ready LLM pre-training](#torchtitan-one-stop-pytorch-native-solution-for-production-ready-llm-pre-training)
+- [ECLIP: Energy-efficient and Practical Co-Location of ML Inference on Spatially Partitioned GPUs](#eclip-energy-efficient-and-practical-co-location-of-ml-inference-on-spatially-partitioned-gpus)
 
 ---
 
@@ -62,6 +64,18 @@ Each paper is linked along with my ChatGPT vibe log discussion that captures my 
 ## TorchBench: Benchmarking PyTorch with High API Surface Coverage
 - 📄 [Paper Link](https://arxiv.org/abs/2304.14226)  
 - 📝 [Vibe Log](./vibe_logs/TorchBench_vibe_log.md)  
+
+---
+
+## TorchTitan: One-stop PyTorch native solution for production ready LLM pre-training
+- 📄 [Paper Link](https://arxiv.org/abs/2410.06511)  
+- 📝 [Vibe Log](./vibe_logs/TorchTitan_vibe_log.md)  
+
+---
+
+## ECLIP: Energy-efficient and Practical Co-Location of ML Inference on Spatially Partitioned GPUs
+- 📄 [Paper Link](https://arxiv.org/abs/2506.12598)  
+- 📝 [Vibe Log](./vibe_logs/ECLIP_vibe_log.md)  
 
 ---
 
