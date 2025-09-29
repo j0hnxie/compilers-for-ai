@@ -16,6 +16,8 @@ Each paper is linked along with my ChatGPT vibe log discussion that captures my 
 - [TorchBench: Benchmarking PyTorch with High API Surface Coverage](#torchbench-benchmarking-pytorch-with-high-api-surface-coverage)
 - [TorchTitan: One-stop PyTorch native solution for production ready LLM pre-training](#torchtitan-one-stop-pytorch-native-solution-for-production-ready-llm-pre-training)
 - [ECLIP: Energy-efficient and Practical Co-Location of ML Inference on Spatially Partitioned GPUs](#eclip-energy-efficient-and-practical-co-location-of-ml-inference-on-spatially-partitioned-gpus)
+- [Triton: an intermediate language and compiler for tiled neural network computations](#triton-an-intermediate-language-and-compiler-for-tiled-neural-network-computations)
+- [Geak: Introducing Triton Kernel AI Agent & Evaluation Benchmarks](#geak-introducing-triton-kernel-ai-agent--evaluation-benchmarks)
 
 ---
 
@@ -76,6 +78,18 @@ Each paper is linked along with my ChatGPT vibe log discussion that captures my 
 ## ECLIP: Energy-efficient and Practical Co-Location of ML Inference on Spatially Partitioned GPUs
 - 📄 [Paper Link](https://arxiv.org/abs/2506.12598)  
 - 📝 [Vibe Log](./vibe_logs/ECLIP_vibe_log.md)  
+
+---
+
+## Triton: an intermediate language and compiler for tiled neural network computations
+- 📄 [Paper Link](https://dl.acm.org/doi/10.1145/3315508.3329973)  
+- 📝 [Vibe Log](./vibe_logs/Triton_vibe_log.md)  
+
+---
+
+## Geak: Introducing Triton Kernel AI Agent & Evaluation Benchmarks
+- 📄 [Paper Link](https://arxiv.org/abs/2507.23194)  
+- 📝 [Vibe Log](./vibe_logs/GEAK_vibe_log.md)  
 
 ---
 
