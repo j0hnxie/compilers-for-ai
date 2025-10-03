@@ -18,6 +18,8 @@ Each paper is linked along with my ChatGPT vibe log discussion that captures my 
 - [ECLIP: Energy-efficient and Practical Co-Location of ML Inference on Spatially Partitioned GPUs](#eclip-energy-efficient-and-practical-co-location-of-ml-inference-on-spatially-partitioned-gpus)
 - [Triton: an intermediate language and compiler for tiled neural network computations](#triton-an-intermediate-language-and-compiler-for-tiled-neural-network-computations)
 - [Geak: Introducing Triton Kernel AI Agent & Evaluation Benchmarks](#geak-introducing-triton-kernel-ai-agent--evaluation-benchmarks)
+- [Memory Safe Computations with XLA Compiler](#memory-safe-computations-with-xla-compiler)
+- [Operator Fusion in XLA: Analysis and Evaluation](#operator-fusion-in-xla-analysis-and-evaluation)
 
 ---
 
@@ -90,6 +92,18 @@ Each paper is linked along with my ChatGPT vibe log discussion that captures my 
 ## Geak: Introducing Triton Kernel AI Agent & Evaluation Benchmarks
 - 📄 [Paper Link](https://arxiv.org/abs/2507.23194)  
 - 📝 [Vibe Log](./vibe_logs/GEAK_vibe_log.md)  
+
+---
+
+## Memory Safe Computations with XLA Compiler
+- 📄 [Paper Link](https://arxiv.org/abs/2206.14148)  
+- 📝 [Vibe Log](./vibe_logs/MemSafeXLA_vibe_log.md)  
+
+---
+
+## Operator Fusion in XLA: Analysis and Evaluation
+- 📄 [Paper Link](https://arxiv.org/abs/2301.13062)  
+- 📝 [Vibe Log](./vibe_logs/OpFusion_vibe_log.md)  
 
 ---
 

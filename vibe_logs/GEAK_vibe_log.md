@@ -1,9 +1,6 @@
 # Summarize GEAK paper
 
 **User:** John Xie (johnjxie@gmail.com)  
-**Created:** 9/28/2025 0:51:40  
-**Updated:** 9/28/2025 1:19:52  
-**Exported:** 9/29/2025 1:02:52  
 **Link:** [https://chatgpt.com/c/68d8bedc-42d4-8327-b495-c2777da1176f](https://chatgpt.com/c/68d8bedc-42d4-8327-b495-c2777da1176f)  
 
 ## Prompt:

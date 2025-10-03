@@ -1,9 +1,6 @@
 # Summarize TorchTitan paper
 
 **User:** John Xie (johnjxie@gmail.com)  
-**Created:** 9/24/2025 15:56:19  
-**Updated:** 9/24/2025 16:19:58  
-**Exported:** 9/24/2025 17:34:49  
 **Link:** [https://chatgpt.com/c/68d44cdf-c6b0-8320-922e-58fbb6656a95](https://chatgpt.com/c/68d44cdf-c6b0-8320-922e-58fbb6656a95)  
 
 ## Prompt:

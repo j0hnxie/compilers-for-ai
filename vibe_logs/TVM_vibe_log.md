@@ -1,9 +1,6 @@
 # Summarize TVM paper
 
 **User:** John Xie (johnjxie@gmail.com)  
-**Created:** 9/11/2025 1:44:08  
-**Updated:** 9/11/2025 1:58:19  
-**Exported:** 9/11/2025 2:00:21  
 **Link:** [https://chatgpt.com/c/68c261a7-bc54-8332-890d-6029f4e5ddc4](https://chatgpt.com/c/68c261a7-bc54-8332-890d-6029f4e5ddc4)  
 
 ## Prompt:

@@ -1,9 +1,6 @@
 # Summarize ECLIP Paper
 
 **User:** John Xie (johnjxie@gmail.com)  
-**Created:** 9/24/2025 15:53:15  
-**Updated:** 9/24/2025 17:30:57  
-**Exported:** 9/24/2025 17:34:43  
 **Link:** [https://chatgpt.com/c/68d44c2b-14fc-8330-b9fa-1bb62d53782d](https://chatgpt.com/c/68d44c2b-14fc-8330-b9fa-1bb62d53782d)  
 
 ## Prompt:

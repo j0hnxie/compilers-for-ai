@@ -1,9 +1,6 @@
 # Summarize Triton paper
 
 **User:** John Xie (johnjxie@gmail.com)  
-**Created:** 9/28/2025 18:40:13  
-**Updated:** 9/29/2025 1:01:29  
-**Exported:** 9/29/2025 1:02:46  
 **Link:** [https://chatgpt.com/c/68d9b94c-b960-8327-a60a-dbf0f409354a](https://chatgpt.com/c/68d9b94c-b960-8327-a60a-dbf0f409354a)  
 
 ## Prompt:
